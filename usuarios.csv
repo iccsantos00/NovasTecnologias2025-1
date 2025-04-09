@@ -1,2 +1,4 @@
-id,nome,email,tipo
-1,Isacc,isaccnv1@gmail.com,aluno
+nome,email,id,tipo
+Isacc Victor,isacc@ucb.br,ucb01,Aluno
+Davi,davi@ucb.br,ucb02,Aluno
+Arthur,arthur@ucb.br,ucb03,Professor
